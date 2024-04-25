@@ -1,0 +1,7 @@
+flask
+gunicorn
+Pillow
+pytesseract
+opencv-python-headless
+transformers
+torch
